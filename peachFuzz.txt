@@ -1,5 +1,6 @@
 Peach Fuzz
-covered in the fuzz of peaches
+
+Covered in the fuzz of peaches
 from a long day at the orchard
 in between the sweet smelling trees.
 
